@@ -1,0 +1,18 @@
+main:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Serviços"
+    url: "/services/"
+    weight: 2
+  - name: "Contato"
+    url: "/contact/"
+    weight: 3
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contato"
+    url: "/contact/"
+    weight: 2
