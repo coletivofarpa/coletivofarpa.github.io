@@ -6,7 +6,7 @@ bodyClass: "page-home"
 <div class="intro">
   <div class="container">
     <div class="row justify-content-start mt-5">
-      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1 mt-5">
         {{ content }}
         {% if page.show_call_box %}
           {% include call.html show_button=true %}
@@ -25,7 +25,7 @@ bodyClass: "page-home"
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
       {% for service in site.services %}
-      <div class="col-12 col-md-4 mb-1">
+      <div class="col-12 col-md-6 mb-1">
         <div class="service service-summary">
           <div class="service-content">
             <h2 class="service-title">
@@ -37,7 +37,7 @@ bodyClass: "page-home"
       </div>
       {% endfor %}
     </div>
-    <div class="row justify-content-center">
+    <div class="row justify-content-center mt-5">
       <div class="col-auto">
         <a class="button button-primary" href="{{ "services" | relative_url }}">Ver todos os serviços</a>
       </div>
