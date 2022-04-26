@@ -1,10 +1,11 @@
 ---
-title: "Bill McDonald"
+title: "Bernardo"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
-jobtitle: "Graphic Designer"
+image: "images/team/bernardo.jpg"
+jobtitle: "Dev. Software"
 linkedinurl: ""
+promoted: true
 weight: 7
 layout: team
 ---

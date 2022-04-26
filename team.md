@@ -7,6 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Conheça nosso time
+Somos uma equipe multidisciplinar de programadores, engenheiros e designers independentes, que oferece uma força de trabalho qualificada.
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Você tem um desafio? Temos a solução!

@@ -5,9 +5,12 @@ main:
   - name: "Serviços"
     url: "/services/"
     weight: 2
+  - name: "Time"
+    url: "/team/"
+    weight: 3
   - name: "Contato"
     url: "/contact/"
-    weight: 3
+    weight: 4
 
 footer:
   - name: "Home"
