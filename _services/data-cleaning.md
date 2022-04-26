@@ -3,6 +3,7 @@ title: "Higienização de Dados"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 weight: 2
+image: "images/illustrations/seo.svg"
 ---
 
 Oferecemos o serviço de organização, padronização e atualização de todos os seus cadastros.

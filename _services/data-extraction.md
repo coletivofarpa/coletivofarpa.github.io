@@ -3,6 +3,7 @@ title: "Extração de Dados"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 1
+image: "images/illustrations/seo.svg"
 ---
 
 Oferecemos o serviço de extração de dados de qualquer fonte aberta na internet, sites, banco de imagens e documentos.

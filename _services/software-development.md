@@ -3,6 +3,7 @@ title: "Desenvolvimento de software"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 weight: 4
+image: "images/illustrations/seo.svg"
 ---
 
 Construímos produtos e serviços digitais para variadas necessidades, aplicando o método ágil de desenvolvimento de software. Buscamos a melhor tecnologia para cada caso, com o objetivo de desenvolver soluções confiáveis, sustentáveis e eficientes.
