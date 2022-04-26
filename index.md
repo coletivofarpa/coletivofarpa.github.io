@@ -10,4 +10,4 @@ show_call_box: true
 
 # Coletivo Farpa
 
-Somos um coletivo autônomo que se propõe em desenvolver ferramentas de software para auxiliar a solucionar problemas sociais
+Somos um coletivo autônomo que se propõe em desenvolver ferramentas de software para auxiliar a solucionar problemas socioambientais, agroecologia, economia solidária e de igualdade social.
