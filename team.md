@@ -1,7 +1,7 @@
 ---
-title: Team
+title: Time
 layout: teams
-description: Team
+description: Time
 permalink: "/team/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
