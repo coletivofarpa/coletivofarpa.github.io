@@ -1,5 +1,5 @@
 ---
-title: "Bernardo"
+title: "Bernardo Herrmann"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/bernardo.jpg"
@@ -10,6 +10,4 @@ weight: 7
 layout: team
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Um profissional digital apaixonado pela intersecção entre as tecnologias e as ciências humanas. Desenvolvedor web, publicitário formado pela UFRGS, colabora com o Matehackers e toca milongas no violão. Amante da natureza, da música, das trocas humanas e das artes.
