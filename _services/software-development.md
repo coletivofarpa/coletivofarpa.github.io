@@ -1,8 +1,8 @@
 ---
 title: "Desenvolvimento de software"
-date: 2018-11-28T15:15:34+10:00
+date: 2018-11-28T15:12:34+10:00
 featured: true
-weight: 4
+weight: 1
 image: "images/illustrations/seo.svg"
 ---
 
