@@ -12,4 +12,4 @@ Ofertamos treinamentos relacionadas ao mundo de desenvolvimento de software e ci
 Temos uma abordagem holística de aprendizado na qual aplicamos a teoria junto a  prática da construção de software que irá resolver problemas do mundo real.
 
 ## Treinamento em segurança da informação
-Treinamento e consultoria em segurançada informação para coletivos, autocuidado, bem-estar em práticas de gerenciamento de comunicação dentro do ciber espaço.
+Treinamento e consultoria em segurançada informação para coletivos, autocuidado, bem-estar em práticas de gerenciamento de comunicação dentro do ciberespaço.
