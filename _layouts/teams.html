@@ -5,8 +5,8 @@ bodyClass: "page-teams"
 
 <div class="intro">
     <div class="container">
-        <div class="row justify-content-start">
-            <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+        <div class="row text-center">
+            <div class="col-12 col-md-7 col-lg-12 order-2 order-md-1">
                 {{ content }}
             </div>
             {% if page.intro_image %}
@@ -31,9 +31,9 @@ bodyClass: "page-teams"
                 {% endif %}
                 <div class="team-meta">
                     <h2 class="team-name"><a href="{{ team.url | relative_url }}">{{ team.title }}</a></h2>
-                    <p class="team-description">{{ team.jobtitle }}</p>
+                    <!--<p class="team-description">{{ team.jobtitle }}</p>-->
                     {% if team.linkedinurl %}
-                    <a target="_blank" href="{{ team.linkedinurl }}" rel="noreferrer">LinkedIn</a>
+                    <!--<a target="_blank" href="{{ team.linkedinurl }}" rel="noreferrer">LinkedIn</a>-->
                     {% endif %}
                 </div>
                 <div class="team-content">{{ team.content }}</div>
