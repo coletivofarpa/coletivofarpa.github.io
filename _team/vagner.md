@@ -6,7 +6,7 @@ image: "images/team/vagner.jpg"
 jobtitle: "UX, Designer"
 linkedinurl: ""
 promoted: true
-weight: 1
+weight: 4
 layout: team
 ---
 

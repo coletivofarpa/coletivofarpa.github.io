@@ -6,7 +6,7 @@ image: "images/team/manoelito.jpg"
 jobtitle: "Segurança da Informação"
 linkedinurl: ""
 promoted: true
-weight: 3
+weight: 4
 layout: team
 ---
 
