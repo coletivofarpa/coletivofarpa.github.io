@@ -1,7 +1,7 @@
 ---
 title: Sobre
 layout: teams
-description: Time
+description: Somos um coletivo de tecnologia digital autônomo que se propõe em desenvolver ferramentas de software para auxiliar a solucionar problemas socioambientais, agroecologia, economia solidária e de desigualdade social...
 permalink: "/about/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false

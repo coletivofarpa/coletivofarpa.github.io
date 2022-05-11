@@ -10,4 +10,4 @@ weight: 1
 layout: team
 ---
 
-É engenheiro de software, comunicador popular e fundador da FARPA. Graduado em Analise de Sistemas pela FATEC-RS e atualmente esta cursando MBA em Engenharia de Dados na instituição IGTI. Além do trabalho no coletivo FARPA é ativista no movimento de software livre e conhecimento livre. Colaborador ativo do hackerspace MateHackers e na associação AOS (Autonomia OpenSource). Desenvolve habilidades com alimentação viva, agricultura urbana, música e arte de rua.
+É engenheiro de software e comunicador popular. Graduado em análise de Sistemas pela FATEC-RS e esta cursando MBA em Engenharia de Dados na instituição IGTI. Um dos idealizadores do coletivo de tecnologia FARPA. Ativista no movimento de software livre e conhecimento livre. Colaborador ativo do hackerspace MateHackers e no coletivo AOS (Autonomia OpenSource). Desenvolve habilidades com alimentação viva, agricultura urbana, música e arte de rua.
