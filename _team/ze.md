@@ -9,14 +9,4 @@ promoted: true
 weight: 20
 layout: team
 ---
-Meu nome é zé, também chamado José Victor.
-
-Graduado em estatística pela USP de São Carlos, gosto de usar dados para entender melhor nosso mundo e tomar decisões mais embasadas.
-
-Trabalhou últimos 3 anos e meio com pesquisa e desenvolvimento em uma agritech, atuando na análise e tratamento de dados, programação de hardware e experimentação em laboratório.
-
-Desde 2016 sou voluntário na organização da CryptoRave e também faço parte do Coletivo Encripta. Nessas áreas, fez palestras, treinamentos e consultorias relacionadas a privacidade, software livre e segurança holística.
-
-Nos últimos meses também tem se aproximado da Teia dos Povos de São Paulo.
-
-Tem interesse em formas de construir autonomia individual e coletiva, usando as tecnologia.
+Vivo para criar caos e navegar pelo caos, fazer coisas diferentes, conhecer e me conectar com pessoas e com os ambientes ao meu redor. Acredito que Decentralização, Privacidade e Software Livre são essenciais em nossos caminhos de emancipação individual e coletiva. Me graduei em Estatística pela Universidade de São Paulo e agora vejo Probabilidade em tudo. Atuo como voluntário em criptofestas por aí e desde 2016 faço oficinas, treinamentos e consultorias de assuntos envolvendo Segurança Holística.
