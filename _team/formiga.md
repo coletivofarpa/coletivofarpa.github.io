@@ -1,5 +1,5 @@
 ---
-title: "Andre Formiga"
+title: "Formiga"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/formiga.jpg"
@@ -10,4 +10,4 @@ weight: 1
 layout: team
 ---
 
-É engenheiro de software e comunicador popular. Graduado em análise de Sistemas pela FATEC-RS e esta cursando MBA em Engenharia de Dados na instituição IGTI. Um dos idealizadores do coletivo de tecnologia FARPA. Ativista no movimento de software livre e conhecimento livre. Colaborador ativo do hackerspace MateHackers e no coletivo AOS (Autonomia OpenSource). Desenvolve habilidades com alimentação viva, agricultura urbana, música e arte de rua.
+Engenheiro de software, artesão de bits e operário na construção do ciberespaço a mais de quinze (15) anos, esteve a frente de diversos projetos de software. Ativista no movimento de software livre e conhecimento livre. Idealizadores do coletivo de tecnologia social FARPA, colaborador dormente do hackerspace MateHackers e no coletivo AOS (Autonomia OpenSource), uma rede de colaboradores voltada para o desenvolvimento, aprimoramento e popularização de soluções tecnológicas e ferramentas de hardware aberto. Desenvolve habilidades com alimentação viva, agricultura urbana, música e arte de rua.
