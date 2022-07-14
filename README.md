@@ -1,4 +1,4 @@
-# coletivofarpa.github.io
+# coletivofarpa.gitlab.io
 
 ### Theme features
 
