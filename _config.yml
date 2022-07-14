@@ -37,13 +37,15 @@ plugins:
   - jekyll-environment-variables
 
 exclude:
+  - CNAME
   - Gemfile
   - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - LICENSE.md
   - LICENSE
+  - CHANGELOG.md
   - README.md
+  - node_modules
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - lighthouse.png
+  - klise-*.gem
+  - klise.gemspec
