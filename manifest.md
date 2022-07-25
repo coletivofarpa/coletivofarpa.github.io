@@ -1,34 +1,30 @@
 ---
 title: Manifesto
 layout: page
-description: Acreditamos que a tecnologia social é uma ferramenta de libertação das massas e temos como principal objetivo apresentar alternativas para um enfrentamento aos monopólios capitalistas e idéias autoritárias em que poderes politico-econômicos se apropriam a fim de controlar até mesmo os aspectos mais subjetivos dos indivíduos na sociedade...
+description: Acreditamos que as tecnologias sociais podem ser ferramentas de libertação. Nosso objetivo principal é oferecer alternativas contra monopólios capitalistas e suas instituições autoritárias. Nos opomos a estes poderes que hoje - subjetiva e objetivamente - controlam a sociedade...
 permalink: "/manifest/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-Vivemos em um mundo cercados de informação, bytes trafegando numa quantidade e velocidade crescentes. Novas redes, novos tempos. Gigantes tecnológicos nos espreitam, controlam e ditam as regras sociais, ao mesmo tempo, em que as condições materiais da vida se tornam cada vez mais escassa. Qual nosso papel diante desse cenário?
+Vivemos em um mundo e um tempo em que estamos constantemente cercados de informação. Bytes trafegando em quantidades e velocidades alucinantes. Novas redes, novos tempos: gigantes corporativos e tecnocratas nos espreitam, ditando parâmetros tecnológicos e regras sociais.
 
-Acreditamos que a tecnologia social é uma ferramenta de libertação das massas e temos como principal objetivo apresentar alternativas para um enfrentamento aos monopólios capitalistas e idéias autoritárias em que poderes politico-econômicos se apropriam a fim de controlar até mesmo os aspectos mais subjetivos dos indivíduos na sociedade. Buscamos através da tecnologia transformar a  realidade e criar novas formas de organização e ação. Somos hackers, devs, cientistas, autodidatas e pessoas curiosas em busca de aprendizado compartilhado, apoio mútuo e ações concretas.
+Testemunhamos como a base material - para vidas que valem a pena ser vividas - se torna cada vez mais inacessível para a maioria. Qual nosso papel diante desse cenário?
 
-Queremos atuar junto a grupos de pesquisa e movimentos sociais, que pautam assuntos relacionados a problemas socioambientais, comunidades tradicionais, economia solidária, políticas culturais e censura;
+Somos hackers, devs, cientistas, autodidatas e pessoas curiosas - compartilhando o que aprendemos e aprofundando nosso conhecimento através do apoio mútuo e de ações concretas.
 
-Queremos uma libertação político-cultural e uma tecnologia social a serviço crítico de nossos camaradas no mundo;
+Acreditamos que as tecnologias sociais podem ser ferramentas de libertação. Nosso objetivo principal é oferecer alternativas contra monopólios capitalistas e suas instituições autoritárias. Nos opomos a estes poderes que hoje - subjetiva e objetivamente - controlam a sociedade. 
 
-Queremos criar, mesclar e implantar software livre não proprietários entre diversos projetos com códigos copyleft;
+Sabemos que através da tecnologia podemos transformar a realidade, criar novas formas de ação e organização. 
 
-Queremos buscar e apresentar dados abertos, exibir indicadores relevantes para fortalecer a tomada de decisão popular;
+Atuamos junto à grupos de ação e pesquisa e também com movimentos sociais que buscam soluções para problemas socioambientais. Oferecemos nosso apoio à comunidades tradicionais, iniciativas de economia solidária, e grupos culturais que fazem oposição à políticas de censura.
 
-Queremos apresentar práticas e técnicas de autonomia digital para os nossos companheirxs. Apresentar abordagens de autocuidado, bem-estar, segurança digital e segurança da informação;
+Temos também como metas em parceria com noss@s camarad@s em todo mundo: fomentar a libertação das tecnologias sociais; criar e aprimorar softwares livres (não proprietários), promover tecnologias de código aberto e copyleft; apresentar dados abertos e indicadores relevantes que fortaleçam instâncias populares de tomada de decisão; difundir práticas e técnicas de autonomia digital, cultura do autocuidado e práticas do bem viver, e também hábitos de segurança da informação; contribuir para o surgimento de ambientes criativos diversos e livres, não submetidos à lógicas corporativas e exploradoras do sistema vigente.
 
-Queremos atuar em um ambiente de criação diverso e livre, não forçado por uma moeda corporativa e exploradora;
+Que nosso coletivo sirva como ferramenta de integração, difusão e criação de saberes, práticas e tecnologias conectando as pessoas através do trabalho e da ação social.
 
-Queremos que nosso coletivo sirva como ferramenta de integração, disseminação e criação de saberes, práticas e tecnologias, conectando pessoas através do trabalho e da ação social.
+Somos um grupo horizontal, diverso e plural. Repudiamos qualquer forma de discriminação e segregação racial, de gênero, classe ou origem. Temos como proposta organizacional a autogestão e queremos que todas as pessoas que colaboram conosco tenham igual poder de ação, voz e decisão;
 
-Queremos ter como base de organizacional a autogestão e que todas tenha a mesma autoridade e poder de decisão;
-
-Queremos ser um grupo horizontal, diverso e plural. Repudiamos qualquer forma de discriminação e segregação racial, de gênero e de classe.
-
-Assim como um pequeno pedaço de madeira que se acomoda na carne, uma farpa, somos aquele pequeno e inquieto incômodo alojado na camada social em busca de auxiliar processos de transformação.
+Como a farpa, aquele minúsculo pedaço de madeira que se acomoda na carne, somos este pequeno e inquieto incômodo alojado no meio das camadas sociais, inflamando processos de transformação!
 
 **Nós somos o coletivo de tecnologia social FARPA!**
