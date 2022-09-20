@@ -1,0 +1,36 @@
+main:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Sobre"
+    url: "/about/"
+    weight: 2
+  - name: "Manifesto"
+    url: "/manifest/"
+    weight: 3
+  - name: "Projetos"
+    url: "/services/"
+    weight: 4
+  - name: "Contato"
+    url: "/contact/"
+    weight: 5
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Sobre"
+    url: "/about/"
+    weight: 2
+  - name: "Manifesto"
+    url: "/manifest/"
+    weight: 3
+  - name: "Projetos"
+    url: "/services/"
+    weight: 4
+  - name: "Gestão organizacional"
+    url: "/governance/"
+    weight: 5
+  - name: "Contato"
+    url: "/contact/"
+    weight: 6
